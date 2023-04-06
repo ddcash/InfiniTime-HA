@@ -21,7 +21,7 @@
 #include <string>
 #define min // workaround: nimble's min/max macros conflict with libstdc++
 #define max
-#include <host/ble_gap.h>
+//#include <host/ble_gap.h>
 #include <host/ble_uuid.h>
 #undef max
 #undef min
