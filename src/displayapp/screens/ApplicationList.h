@@ -43,8 +43,8 @@ namespace Pinetime {
           {Symbols::stopWatch, Apps::StopWatch},
           {Symbols::clock, Apps::Alarm},
           {Symbols::hourGlass, Apps::Timer},
-          {Symbols::heartBeat, Apps::HeartRate},
           {Symbols::home, Apps::Home},
+          {Symbols::heartBeat, Apps::HeartRate},
           {Symbols::music, Apps::Music},
 
           {Symbols::shoe, Apps::Steps},
